@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "979455093734",
+    "firebase_url": "https://nit-app-a6b1e-default-rtdb.firebaseio.com",
+    "project_id": "nit-app-a6b1e",
+    "storage_bucket": "nit-app-a6b1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979455093734:android:6aa5a6aa3045162d668427",
+        "android_client_info": {
+          "package_name": "com.nit.nitchattingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUITVZMpLtSLdHTc-DHU21TAanyjJRBXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
