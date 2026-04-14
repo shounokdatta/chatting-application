@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "979455093734",
-    "firebase_url": "https://nit-app-a6b1e-default-rtdb.firebaseio.com",
-    "project_id": "nit-app-a6b1e",
-    "storage_bucket": "nit-app-a6b1e.firebasestorage.app"
+    "project_number": "912197133567",
+    "firebase_url": "https://chatting-application-47c60-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatting-application-47c60",
+    "storage_bucket": "chatting-application-47c60.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:979455093734:android:6aa5a6aa3045162d668427",
+        "mobilesdk_app_id": "1:912197133567:android:844d1ced69a4644af018ca",
         "android_client_info": {
-          "package_name": "com.nit.nitchattingapp"
+          "package_name": "com.company.chattingapplication"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCUITVZMpLtSLdHTc-DHU21TAanyjJRBXc"
+          "current_key": "AIzaSyBBZ5f-f7dbGhOH6VdONpjNnrxBtugSiCE"
         }
       ],
       "services": {
