@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:912197133567:android:844d1ced69a4644af018ca",
+        "mobilesdk_app_id": "1:912197133567:android:1f5b0a664bf0daa3f018ca",
         "android_client_info": {
-          "package_name": "com.company.chattingapplication"
+          "package_name": "com.nit.nitchattingapp"
         }
       },
       "oauth_client": [],
